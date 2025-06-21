@@ -1,0 +1,25 @@
+2024-11-25T09:20:05.545Z [ERROR]: Error fetching article: {
+  "error": "Request failed with status code 400",
+  "lawId": "BOE-A-1992-28740",
+  "articleNumber": "23"
+}
+2024-11-25T09:20:05.546Z [ERROR]: Error processing query: {
+  "error": "Request failed with status code 400",
+  "query": "Can you explain Article 23 of the VAT law?"
+}
+2024-11-25T11:32:01.574Z [ERROR]: Error processing query: {
+  "error": "400 Message content must be non-empty.",
+  "query": ""
+}
+2024-11-25T11:37:14.036Z [ERROR]: Error processing query: {
+  "error": "400 Message content must be non-empty.",
+  "query": ""
+}
+2024-11-25T11:48:34.658Z [ERROR]: Error processing query: {
+  "error": "400 Message content must be non-empty.",
+  "query": ""
+}
+2024-11-25T17:58:39.292Z [ERROR]: Error processing query: {
+  "error": "400 Message content must be non-empty.",
+  "query": ""
+}
