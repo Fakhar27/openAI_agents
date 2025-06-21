@@ -9,6 +9,15 @@ const openai = new OpenAI({
 });
 
 
+/* 
+  IN FIREBASE:
+             PEHLE TOH EK COLLECTION HONI CHAHE FOR COACHES JISMEIN HAR COACH KA EK DOCUMENT HOGA
+             ACCORDING TO THE PICTURES THEY ARE ABOUT 17 COACHES
+             HAR COACH KE DOCUMENT MEIN INSTRUCTIONS AND PERSONALITY HOGI
+             JISSE HUM COACH AGENT KO INSTRUCTIONS DE SAKTE HAIN
+ */
+
+
 exports.CoachAgentHissan = functions.https.onRequest((req, res) => {
   cors(req, res, async () => {
     try {
